@@ -257,4 +257,4 @@ For a list of third-party dependencies, please refer to [NOTICE.md](./NOTICE.md)
 
 ## Contact
 For all inquiries, including support, collaboration, please contact:  
-[contact@retinify.ai](mailto:contact@retinify.ai)
+[k0iz@hrbeu.edu.cn](mailto:k0iz@hrbeu.edu.cn)
