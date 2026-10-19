@@ -13,7 +13,7 @@ ogo"
 [![Apache 2.0](https://img.shields.io/badge/Apache_2.0-blue?style=flat-square&logo=apache&label=)](https://www.apache.org/licenses/LICENSE-2.0)
 ![C++](https://img.shields.io/badge/C++-royalblue?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white)  
-[![X](https://img.shields.io/badge/Follow-@retinify-blueviolet?style=flat-square&logo=x)](https://x.com/retinify)
+
 
   
 # retinify
